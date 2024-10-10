@@ -1,6 +1,7 @@
 ## 專案結構
 
 -  程式碼在`Codes for training and testing`
+-  需要 `pip install ultralytics`
 - `quickstart/experiment.ipynb`: 主要的 Jupyter Notebook 文件，包含訓練、驗證和測試
 - `my.yaml`: 模型和訓練設定配置文件
 - `eval.py`: 由助教提供的評估腳本
